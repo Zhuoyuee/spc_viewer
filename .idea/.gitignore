@@ -1,8 +1,26 @@
-# Default ignored files
+# === Node.js (npm) ===
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+
+# === IDE-specific (JetBrains: PyCharm, WebStorm) ===
+.idea/
+*.iml
 /shelf/
 /workspace.xml
-# Editor-based HTTP Client requests
 /httpRequests/
-# Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Environment variables ===
+.env
+.env.local
+
+# === Optional: lock file (if you want reproducible builds, keep it) ===
+# package-lock.json
