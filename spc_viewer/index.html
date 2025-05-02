@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Smart Point Cloud Viewer</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+
+    .panel {
+      position: absolute;
+      background: rgba(0, 0, 0, 0.6);
+      color: white;
+      padding: 10px;
+      max-width: 300px;
+      z-index: 10;
+      border-radius: 5px;
+    }
+
+    #info-panel {
+      top: 10px;
+      right: 10px;
+    }
+
+    .bottom-panel {
+      bottom: 10px;
+      left: 10px;
+    }
+
+    button {
+      margin: 5px 2px;
+      padding: 5px 10px;
+      background: #444;
+      color: white;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #666;
+    }
+
+    .label {
+      position: absolute;
+      color: white;
+      font-family: sans-serif;
+      background: rgba(0, 0, 0, 0.6);
+      padding: 2px 4px;
+      border-radius: 3px;
+    }
+     #patch-popup {
+    pointer-events: none;       /* Don't block raycasting */
+  }
+
+  #patch-popup * {
+    pointer-events: auto;       /* Allow interaction inside */
+  }
+  </style>
+</head>
+<body>
+  <div id="info-panel" class="panel">
+    <h2>Heritage Object Info</h2>
+    <div id="heritage-info"></div>
+    <div id="map" style="height: 200px; margin-top: 10px;"></div>
+  </div>
+
+  <div id="controls" class="panel bottom-panel">
+    <h3>View Mode</h3>
+    <button id="view-original">Original RGB</button>
+    <button id="view-patch">Patch Colors</button>
+    <button id="view-material">Group by Material</button>
+    <button id="view-structure">Group by Structure</button>
+  </div>
+
+  <div id="patch-popup" class="panel" style="display:none; top: 60px; left: 10px;">
+    <div id="patch-content"></div>
+    <button id="close-popup">Close</button>
+</div>
+
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

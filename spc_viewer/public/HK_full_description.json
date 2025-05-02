@@ -1,0 +1,135 @@
+{
+    "heritageObject": {
+        "objectID": "HK001",
+        "name": "Herdenkingsmonument Kartuizerklooster",
+        "location": {
+            "address": "Aletta Jacobsstraat, the corner of Westlandseweg",
+            "neighborhood": "Hof van Delft & Voordijkshoorn",
+            "city": "Delft",
+            "country": "Netherlands"
+        },
+        "material": {
+            "materialType": [ "brick", "concrete" ],
+            "provenance": "unknown",
+            "deterioration": "none visible",
+            "restorationRecords": "not registered"
+        },
+        "culturalAndArtist": {
+            "artistName": "Henk (Hendricus Johannes) Tieman",
+            "artistLifespan": "1921–2001",
+            "otherWorks": [
+                "De Waterdragers",
+                "Spelende kinderen",
+                "Zeeleeuw"
+            ]
+        },
+        "historical": {
+            "buildingOrigin": "Commemorates Sint Bartholomeus in Jeruzalem (1469–1572)",
+            "architecturalStyle": "Modern commemorative",
+            "chronologicalChanges": "none known",
+            "functionalEvolution": "Designed as memorial from inception",
+            "historicalDocuments": [
+                "During construction in 1959, remains of the monastery were uncovered, including brick fragments and waste pits. This led to identification as remnants of the Carthusian monastery Sint Bartholomeus in Jeruzalem, active from 1469 to 1572, destroyed during the Eighty Years' War.",
+                "The monument was a gift from the KNMG to the then-new hospital.",
+                "Its plan is based on archaeological excavations.",
+                "Sources: Archief Theo Tieman; R. Rothfusz & A.J.H. Rozemond (1975); H.H. Vos (1979); WikiDelft.",
+                "https://delft.kunstwacht.nl/kunstwerken/bekijk/285-herdenkingsmonument-kartuizerklooster"
+            ],
+            "source": {
+                "type": "public heritage database and published literature",
+                "by": "Kunstwacht Delft and referenced authors",
+                "confidence": "medium",
+                "accessDate": "2025-04-17"
+            }
+        },
+        "restorationAndConservation": {
+            "restorationTechnique": "unknown",
+            "monitoringData": "unknown",
+            "conservationHistory": "none known",
+            "legalStatus": "public monument",
+            "structuralStability": "stable"
+        },
+        "yearOfPlacement": 1969
+    },
+    "patches": {
+        "0": {
+            "material": { "materialType": "brick" },
+            "structure": { "structuralRole": "rear vertical face" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "1": {
+            "material": { "materialType": "brick" },
+            "structure": { "structuralRole": "upper inclined rear surface" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "2": {
+            "material": { "materialType": "brick" },
+            "structure": { "structuralRole": "right vertical face" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "3": {
+            "material": { "materialType": "brick" },
+            "structure": { "structuralRole": "upper inclined front surface" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "4": {
+            "material": { "materialType": "brick" },
+            "structure": { "structuralRole": "lower edge of inclined rear surface" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "5": {
+            "material": { "materialType": "brick" },
+            "structure": { "structuralRole": "lower edge of inclined front surface" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "6": {
+            "material": { "materialType": "brick" },
+            "structure": { "structuralRole": "front vertical face" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "7": {
+            "material": { "materialType": "stone" },
+            "structure": { "structuralRole": "pedestal or base plane" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "8": {
+            "material": { "materialType": "brick" },
+            "structure": { "structuralRole": "left vertical face" },
+            "culturalAndArtist": { "decorativeElements": "none" }
+        },
+        "9": {
+            "material": { "materialType": "metal" },
+            "structure": { "structuralRole": "applied plaque, left face" },
+            "culturalAndArtist": {
+                "decorativeElements": {
+                    "type": "metal plate",
+                    "description": "Decorative component on left side of monument",
+                    "symbolism": "unspecified"
+                }
+            }
+        },
+        "10": {
+            "material": { "materialType": "metal" },
+            "structure": { "structuralRole": "relief plaque, upper front" },
+            "culturalAndArtist": {
+                "decorativeElements": {
+                    "type": "relief map",
+                    "description": "Map of Kartuizerklooster based on archaeological excavations",
+                    "symbolism": "commemoration of monastery layout"
+                }
+            }
+        },
+        "11": {
+            "material": { "materialType": "metal" },
+            "structure": { "structuralRole": "inscription plaque, lower front" },
+            "culturalAndArtist": {
+                "decorativeElements": {
+                    "type": "inscription",
+                    "description": "Engraved plate with commemorative text",
+                    "symbolism": "dedication from KNMG"
+                }
+            }
+        }
+    }
+
+}
