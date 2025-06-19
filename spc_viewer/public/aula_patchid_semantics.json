@@ -1,0 +1,283 @@
+{
+    "heritageObject": {
+        "objectID": "AULA1966",
+        "name": "Auditorium TU Delft",
+        "location": {
+            "address": "Professor Mekelweg 5",
+            "neighborhood": "Whippolder",
+            "city": "Delft",
+            "country": "Netherlands"
+        },
+        "culturalAndArtist": {
+            "artistName": "Jaap Berend Bakema",
+            "otherWorks": [
+                "Van den Broek en Bakema projects",
+                "Mensa redesign by Mecanoo",
+                "Senate room and connecting bridges"
+            ]
+        },
+        "historical": {
+            "buildingOrigin": "The brutalist-style auditorium was designed with a symmetrical layout and features dramatic cantilevering concrete forms supported by triangular columns. It includes an auditorium, senate room, cafeteria, and is connected to other faculty buildings via bridge. Notable for exposed pre-stressed concrete cables and steel facade elements.",
+            "architecturalStyle": "Brutalism",
+            "chronologicalChanges": "mensa redesign in 1998/99",
+            "functionalEvolution": "Used for promotions, inaugural and farewell lectures, symposia, academic year openings, and Dies Natalis events.",
+            "historicalDocuments": [
+                "https://web.archive.org/web/20190921152807/https://www.monumentaal.com/restauratieonderzoek-aula-tu-delft/",
+                "https://www.architectuur.org/bouwwerk/132/Auditorium_Technische_Universiteit.html",
+                "https://web.archive.org/web/20210625145637/https://www.getty.edu/foundation/initiatives/current/keeping_it_modern/grants_awarded_2018.html",
+                "Bouwwereld, 2004-22",
+                "BOUW, 2005-9",
+                "Van den Broek en Bakema, NAi Uitgevers, 2000",
+                "BRUUT, atlas van het brutalisme in Nederland, WBOOKS, 2023",
+                "Gigantische aula van beton voor TH, Parool, 12-3-1966, blz.13",
+                "Opvallend auditorium vandaag geopend, Trouw, 8-1-1966",
+                "Nieuwe aula T.H. Delft een feestelijk gebouw, Taco Swart, Algemeen Dagblad, 12-3-1966"
+            ],
+            "source": {
+                "type": "public heritage database and published literature",
+                "by": "Architectuur.org and others",
+                "confidence": "high",
+                "accessDate": "2025-05-01"
+            }
+        },
+        "restorationAndConservation": {
+            "restorationTechnique": "Restoration research led by TU Delft's Campus & Real Estate and Heritage & Architecture department.",
+            "monitoringData": "Funded by the Getty Foundation under the Keeping It Modern initiative.",
+            "conservationHistory": "Restoration supported by the Getty Foundation's Keeping It Modern initiative recognizing post-war campus architecture.",
+            "legalStatus": "national conservation measure",
+            "structuralStability": "Focus on long-term usability, material conservation, and stewardship for post-war campuses."
+        },
+        "yearOfPlacement": "1959 - 1966"
+    },
+    "patches": {
+        "1": {
+            "material": {
+                "materialType": "metal"
+            },
+            "structure": {
+                "structuralRole": "roof",
+                "buildingHierarchy": "primary",
+                "mechanicalProperties": "lightweight steel",
+                "constructionTechniques": "folded plate structure, cantilevered from utility cores",
+                "damageConditions": ""
+            },
+            "culturalAndArtist": {
+                "decorativeElements": "geometric folded roof",
+                "artistName": "",
+                "symbolism": "iconic floating silhouette; modernist expression of academic openness"
+            }
+        },
+        "2": {
+            "structure": { "structuralRole": "railing" },
+            "material": { "materialType": "metal" }
+        },
+        "3": {
+            "structure": { "structuralRole": "railing" },
+            "material": { "materialType": "metal" }
+        },
+        "4": {
+            "structure": { "structuralRole": "railing" },
+            "material": { "materialType": "metal" }
+        },
+        "5": {
+            "structure": { "structuralRole": "floor" },
+            "material": { "materialType": "concrete" }
+        },
+        "6": {
+            "structure": { "structuralRole": "floor" },
+            "material": { "materialType": "concrete" }
+        },
+        "7": {
+            "structure": { "structuralRole": "floor" },
+            "material": { "materialType": "concrete" }
+        },
+        "8": {
+            "structure": { "structuralRole": "stair" },
+            "material": { "materialType": "concrete" }
+        },
+        "9": {
+            "structure": { "structuralRole": "stair" },
+            "material": { "materialType": "concrete" }
+        },
+        "10": {
+            "structure": { "structuralRole": "basic wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "11": {
+            "structure": { "structuralRole": "basic wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "12": {
+            "structure": { "structuralRole": "basic wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "13": {
+            "structure": { "structuralRole": "basic wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "14": {
+            "structure": { "structuralRole": "basic wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "15": {
+            "structure": { "structuralRole": "basic wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "16": {
+            "structure": { "structuralRole": "basic wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "17": {
+            "structure": { "structuralRole": "basic wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "18": {
+            "structure": { "structuralRole": "knee wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "19": {
+            "structure": { "structuralRole": "knee wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "20": {
+            "structure": { "structuralRole": "knee wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "21": {
+            "structure": { "structuralRole": "knee wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "22": {
+            "material": {
+                "materialType": "concrete"
+            },
+            "structure": {
+                "structuralRole": "Inclined Structural Wall",
+                "buildingHierarchy": "primary",
+                "mechanicalProperties": "prestressed concrete",
+                "constructionTechniques": "in-situ casting, visible formwork, pulled by 35 km of prestress cables",
+                "damageConditions": ""
+            },
+            "culturalAndArtist": {
+                "decorativeElements": "protruding concrete bowl over main entrance",
+                "artistName": "",
+                "symbolism": "centerpiece of the 'academic heart'; brutalist mass over openness"
+            }
+        },
+        "23": {
+            "material": {
+                "materialType": "concrete"
+            },
+            "structure": {
+                "structuralRole": "Inclined Structural Wall",
+                "buildingHierarchy": "primary",
+                "mechanicalProperties": "reinforced concrete with tensioned cable anchoring",
+                "constructionTechniques": "in-situ casting, internal prestressing system",
+                "damageConditions": ""
+            },
+            "culturalAndArtist": {
+                "decorativeElements": "monolithic towers",
+                "artistName": "",
+                "symbolism": "invisible stabilizers; the 'tail' that balances the flying auditorium"
+            }
+        },
+        "24": {
+            "structure": { "structuralRole": "structural column" },
+            "material": { "materialType": "concrete" }
+        },
+        "25": {
+            "structure": { "structuralRole": "structural column" },
+            "material": { "materialType": "concrete" }
+        },
+        "26": {
+            "structure": { "structuralRole": "structural column" },
+            "material": { "materialType": "concrete" }
+        },
+        "27": {
+            "structure": { "structuralRole": "structural column" },
+            "material": { "materialType": "concrete" }
+        },
+        "28": {
+            "structure": { "structuralRole": "structural column" },
+            "material": { "materialType": "concrete" }
+        },
+        "29": {
+            "structure": { "structuralRole": "structural column" },
+            "material": { "materialType": "concrete" }
+        },
+        "30": {
+            "structure": { "structuralRole": "structural framing" },
+            "material": { "materialType": "concrete" }
+        },
+        "31": {
+            "structure": { "structuralRole": "structural framing" },
+            "material": { "materialType": "concrete" }
+        },
+        "32": {
+            "structure": { "structuralRole": "curtain wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "33": {
+            "structure": { "structuralRole": "curtain wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "34": {
+            "structure": { "structuralRole": "curtain wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "35": {
+            "structure": { "structuralRole": "curtain wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "36": {
+            "structure": { "structuralRole": "curtain wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "37": {
+            "structure": { "structuralRole": "curtain wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "38": {
+            "structure": { "structuralRole": "curtain wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "39": {
+            "structure": { "structuralRole": "curtain wall" },
+            "material": { "materialType": "concrete" }
+        },
+        "40": { "structure": { "structuralRole": "banner" } },
+        "41": { "structure": { "structuralRole": "ground" } },
+        "42": { "structure": { "structuralRole": "street furniture" } },
+        "43": {
+            "material": {
+                "materialType": "concrete"
+            },
+            "structure": {
+                "componentType": "sculpture",
+                "buildingHierarchy": "independent",
+                "mechanicalProperties": "cast-in-place",
+                "constructionTechniques": "precast concrete blocks"
+            },
+            "culturalAndArtist": {
+                "decorativeElements": "abstract concrete sculpture",
+                "artistName": "Carel Visser",
+                "symbolism": "embodiment of brutalist aesthetics and integration of art and architecture"
+            }
+        },
+        "44": {
+            "material": {
+                "materialType": "concrete"
+            },
+            "structure": {
+                "componentType": "signage",
+                "buildingHierarchy": "external"
+            },
+            "culturalAndArtist": {
+                "decorativeElements": "TU Delft logotype in three-dimensional concrete",
+                "artistName": "",
+                "symbolism": "representation of university's presence and identity within the campus"
+            }
+        }
+
+    }
+}
